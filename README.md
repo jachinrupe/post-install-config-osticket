@@ -27,5 +27,3 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Understanding of SLAs
 - [Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-<h2>Configuration Steps</h2>
-
